@@ -1,1 +1,6 @@
 php roadmap
+
+# reddis library
+# how to trigger redis
+# how to set redis value
+# how to get all redis channel
